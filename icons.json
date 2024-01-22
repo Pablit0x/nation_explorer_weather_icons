@@ -57,13 +57,13 @@
     {
       "id": 10,
       "name": "LightFreezingDrizzle",
-      "image": https://i.postimg.cc/Pq17LV1S/Hail-Weather-Cloud.png,
+      "image": "https://i.postimg.cc/Pq17LV1S/Hail-Weather-Cloud.png",
       "description": "Slight freezing drizzle"
     },
     {
       "id": 11,
       "name": "DenseFreezingDrizzle",
-      "image": https://i.postimg.cc/Pq17LV1S/Hail-Weather-Cloud.png,
+      "image": "https://i.postimg.cc/Pq17LV1S/Hail-Weather-Cloud.png",
       "description": "Dense freezing drizzle"
     },
     {
