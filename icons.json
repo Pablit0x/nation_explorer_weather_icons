@@ -3,163 +3,163 @@
     {
       "id": 1,
       "name": "ClearSky",
-      "image": "https://i.postimg.cc/pT45gC6t/Yellow-Sun-Icon.png",
+      "image": "https://i.postimg.cc/2y0wPZRN/clearSky.png",
       "description": "Clear sky"
     },
     {
       "id": 2,
       "name": "MainlyClear",
-      "image": "https://i.postimg.cc/3J7xWzpc/Yellow-Sun-Blue-Cloud.png",
+      "image": "https://i.postimg.cc/nrmm19F1/mainly-Clear.png",
       "description": "Mainly clear"
     },
     {
       "id": 3,
       "name": "PartlyCloudy",
-      "image": "https://i.postimg.cc/MHJK7FLX/Blue-Cloud-Weather.png",
+      "image": "https://i.postimg.cc/nrmm19F1/mainly-Clear.png",
       "description": "Partly cloudy"
     },
     {
       "id": 4,
       "name": "Overcast",
-      "image": "https://i.postimg.cc/MHJK7FLX/Blue-Cloud-Weather.png",
+      "image": "https://i.postimg.cc/wxD30p5F/cloudy.png",
       "description": "Overcast"
     },
     {
       "id": 5,
       "name": "Foggy",
-      "image": "https://i.postimg.cc/MHJK7FLX/Blue-Cloud-Weather.png",
+      "image": "https://i.postimg.cc/wxD30p5F/cloudy.png",
       "description": "Foggy"
     },
     {
       "id": 6,
       "name": "DepositingRimeFog",
-      "image": "https://i.postimg.cc/MHJK7FLX/Blue-Cloud-Weather.png",
+      "image": "https://i.postimg.cc/wxD30p5F/cloudy.png",
       "description": "Depositing rime fog"
     },
     {
       "id": 7,
       "name": "LightDrizzle",
-      "image": "https://i.postimg.cc/3NZ7gJpb/Rainy-Cloudy-Day.png",
+      "image": "https://i.postimg.cc/pLSn3BmB/drizzle.png",
       "description": "Light drizzle"
     },
     {
       "id": 8,
       "name": "ModerateDrizzle",
-      "image": "https://i.postimg.cc/3NZ7gJpb/Rainy-Cloudy-Day.png",
+      "image": "https://i.postimg.cc/pLSn3BmB/drizzle.png",
       "description": "Moderate drizzle"
     },
     {
       "id": 9,
       "name": "DenseDrizzle",
-      "image": "https://i.postimg.cc/3NZ7gJpb/Rainy-Cloudy-Day.png",
+      "image": "https://i.postimg.cc/fLzZKGMq/rain.png",
       "description": "Dense drizzle"
     },
     {
       "id": 10,
       "name": "LightFreezingDrizzle",
-      "image": "https://i.postimg.cc/Pq17LV1S/Hail-Weather-Cloud.png",
+      "image": "https://i.postimg.cc/pLSn3BmB/drizzle.png",
       "description": "Slight freezing drizzle"
     },
     {
       "id": 11,
       "name": "DenseFreezingDrizzle",
-      "image": "https://i.postimg.cc/Pq17LV1S/Hail-Weather-Cloud.png",
+      "image": "https://i.postimg.cc/fLzZKGMq/rain.png",
       "description": "Dense freezing drizzle"
     },
     {
       "id": 12,
       "name": "SlightRain",
-      "image": "https://i.postimg.cc/QxPYfZb6/Downpour-Rainy-Day.png",
+      "image": "https://i.postimg.cc/fLzZKGMq/rain.png",
       "description": "Slight rain"
     },
     {
       "id": 13,
       "name": "ModerateRain",
-      "image": "https://i.postimg.cc/QxPYfZb6/Downpour-Rainy-Day.png",
+      "image": "https://i.postimg.cc/fLzZKGMq/rain.png",
       "description": "Rainy"
     },
     {
       "id": 14,
       "name": "HeavyRain",
-      "image": "https://i.postimg.cc/QxPYfZb6/Downpour-Rainy-Day.png",
+      "image": "https://i.postimg.cc/fLzZKGMq/rain.png",
       "description": "Heavy rain"
     },
     {
       "id": 15,
       "name": "HeavyFreezingRain",
-      "image": "https://i.postimg.cc/QxPYfZb6/Downpour-Rainy-Day.png",
+      "image": "https://i.postimg.cc/fLzZKGMq/rain.png",
       "description": "Heavy freezing rain"
     },
     {
       "id": 16,
       "name": "SlightSnowFall",
-      "image": "https://i.postimg.cc/G2qqYWtx/Snowfall.png",
+      "image": "https://i.postimg.cc/28RY9LjB/snow.png",
       "description": "Slight snow fall"
     },
     {
       "id": 17,
       "name": "ModerateSnowFall",
-      "image": "https://i.postimg.cc/G2qqYWtx/Snowfall.png",
+      "image": "https://i.postimg.cc/28RY9LjB/snow.png",
       "description": "Moderate snow fall"
     },
     {
       "id": 18,
       "name": "HeavySnowFall",
-      "image": "https://i.postimg.cc/G2qqYWtx/Snowfall.png",
+      "image": "https://i.postimg.cc/28RY9LjB/snow.png",
       "description": "Heavy snow fall"
     },
     {
       "id": 19,
       "name": "SnowGrains",
-      "image": "https://i.postimg.cc/G2qqYWtx/Snowfall.png",
+      "image": "https://i.postimg.cc/g0P6Y2Kw/hail.png",
       "description": "Snow grains"
     },
     {
       "id": 20,
       "name": "SlightRainShowers",
-      "image": "https://i.postimg.cc/3NZ7gJpb/Rainy-Cloudy-Day.png",
+      "image": "https://i.postimg.cc/pLSn3BmB/drizzle.png",
       "description": "Slight rain showers"
     },
     {
       "id": 21,
       "name": "ModerateRainShowers",
-      "image": "https://i.postimg.cc/3NZ7gJpb/Rainy-Cloudy-Day.png",
+      "image": "https://i.postimg.cc/pLSn3BmB/drizzle.png",
       "description": "Moderate rain showers"
     },
     {
       "id": 22,
       "name": "ViolentRainShowers",
-      "image": "https://i.postimg.cc/3NZ7gJpb/Rainy-Cloudy-Day.png",
+      "image": "https://i.postimg.cc/fLzZKGMq/rain.png",
       "description": "Violent rain showers"
     },
     {
       "id": 23,
       "name": "SlightSnowShowers",
-      "image": "https://i.postimg.cc/G2qqYWtx/Snowfall.png",
+      "image": "https://i.postimg.cc/28RY9LjB/snow.png",
       "description": "Light snow showers"
     },
     {
       "id": 24,
       "name": "HeavySnowShowers",
-      "image": "https://i.postimg.cc/G2qqYWtx/Snowfall.png",
+      "image": "https://i.postimg.cc/28RY9LjB/snow.png",
       "description": "Heavy snow showers"
     },
     {
       "id": 25,
       "name": "ModerateThunderstorm",
-      "image": "https://i.postimg.cc/x8NMChzC/Cloud-Yellow-Lightning.png",
+      "image": "https://i.postimg.cc/Nj0QRqfN/Thunderstorm.png",
       "description": "Moderate thunderstorm"
     },
     {
       "id": 26,
       "name": "SlightHailThunderstorm",
-      "image": "https://i.postimg.cc/x8NMChzC/Cloud-Yellow-Lightning.png",
+      "image": "https://i.postimg.cc/rFXdGpvf/heavy-Thunderstorm.png",
       "description": "Thunderstorm with slight hail"
     },
     {
       "id": 27,
       "name": "HeavyHailThunderstorm",
-      "image": "https://i.postimg.cc/x8NMChzC/Cloud-Yellow-Lightning.png",
+      "image": "https://i.postimg.cc/rFXdGpvf/heavy-Thunderstorm.png",
       "description": "Thunderstorm with heavy hail"
     }
   ]
